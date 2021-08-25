@@ -1,0 +1,54 @@
+"Phrases"
+{
+	"Ultimate Key Enabled"
+	{
+		"en"			"{green}[Server] {default}Pressing your {lightgreen}inspect button{default} will make you cast your {lightgreen}ultimate{default}."
+		"da"			"{green}[Server] {default}Din {lightgreen}inspect knap{default} gør at du bruger din {lightgreen}ultimate{default}."
+	}
+	"Ultimate Key Disabled"
+	{
+		"en"			"{green}[Server] {default}Pressing your {lightgreen}inspect button{default} will no longer make you cast your {lightgreen}ultimate{default}."
+		"da"			"{green}[Server] {default}Din {lightgreen}inspect knap{default} gør ikke længere at du bruger dit {lightgreen}ultimate{default}."
+	}
+	"Ultimate Key How To Bind"
+	{
+		"en"			"{green}[Server] {default}To bind your ultimate skill to another button this in your console:{lightgreen}bind t ultimate{default}."
+		"da"			"{green}[Server] {default}For at bruge dit ultimate på en anden knap, så skriv dette i din console: {lightgreen}bind t ultimate{default}."
+	}
+
+
+	"Ability Key Enabled"
+	{
+		"en"			"{green}[Server] {default}Pressing your {lightgreen}use button{default} will make you cast your {lightgreen}ability{default}."
+		"da"			"{green}[Server] {default}Din {lightgreen}use knap{default} gør at du bruger din {lightgreen}ability{default}."
+	}
+	"Ability Key Disabled"
+	{
+		"en"			"{green}[Server] {default}Pressing your {lightgreen}use button{default} will no longer make you cast your {lightgreen}ability{default}."
+		"da"			"{green}[Server] {default}Din {lightgreen}use knap{default} gør ikke længere at du bruger din {lightgreen}ability{default}."
+	}
+	"Ability Key How To Bind"
+	{
+		"en"			"{green}[Server] {default}To bind your ability skill to another button this in your console:{lightgreen}bind h ability{default}."
+		"da"			"{green}[Server] {default}For at bruge dit ability på en anden knap, så skriv dette i din console: {lightgreen}bind h ability{default}."
+	}
+
+
+	"Key Bind Message Enabled"
+	{
+		"en"			"{green}[Server] {default}The key bind information message you receive when connecting to the server has been {lightgreen}turned on{default}."
+		"da"			"{green}[Server] {default}Beskeden med keybind information som du modtager når du joiner serveren er blevet {lightgreen}slået til{default}."
+	}
+	"Key Bind Message Disabled"
+	{
+		"en"			"{green}[Server] {default}The key bind information message you receive when connecting to the server has been {lightgreen}turned off{default}."
+		"da"			"{green}[Server] {default}Beskeden med keybind information som du modtager når du joiner serveren er blevet {lightgreen}slået fra{default}."
+	}
+
+
+	"Key Bind Connect Message"
+	{
+		"en"			"{green}[Server] {default}To change the default spell key binds, simply type {lightgreen}!settings{default}."
+		"da"			"{green}[Server] {default}For at ændre dine standard tasttilknytninger for spells, så skriv {lightgreen}!settings{default}."
+	}
+}
