@@ -8,7 +8,9 @@ If the player turns off the ability or ultimate key bind via. the settings menu,
 
 
 ## Requirements
-In order for the plugin to work, your server must already have [SourceMod](https://www.sourcemod.net/downloads.php?branch=stable) installed as well as [Warcraft-Source: Reignited](https://github.com/ThaPwned/WCS) by ThaPwned.
+In order for the plugin to work, you must have the following installed:
+- [SourceMod](https://www.sourcemod.net/downloads.php?branch=stable) 
+- [Warcraft-Source: Reignited](https://github.com/ThaPwned/WCS)
 
 
 ## Installation
