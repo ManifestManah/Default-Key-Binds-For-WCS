@@ -1,4 +1,4 @@
-# Default Ultimate & Ability Key Binds For WC:S
+# [WC:S Reignited] Default Ultimate & Ability Keybinds
 
 ## About
 This plugin makes it easier for new players to get in to Warcraft-Source and enjoy the game mode to the fullest.
