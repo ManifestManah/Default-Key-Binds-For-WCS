@@ -29,5 +29,5 @@ In order for the plugin to work, you must have the following installed:
 
 ## Bug Reports, Problems & Help
 This plugin has been tested and used on a server, there should be no bugs or issues aside from the known ones found here.
-Should you run in to a bug that isn't listed here, then please report it in our [Discord's](https://discord.gg/zYASbKz) bug channel then I'll look in to it, find a solution and include it in an update.
-If you're having trouble installing the plugin, you can also get assistance on our [Discord](https://discord.gg/zYASbKz), or just join to be part of the global Warcraft-Source community.
+Should you run in to a bug that isn't listed here, then please report it in our [Discord's](https://discord.com/invite/rx8Q4PrK6C) bug channel then I'll look in to it, find a solution and include it in an update.
+If you're having trouble installing the plugin, you can also get assistance on our [Discord](https://discord.com/invite/rx8Q4PrK6C), or just join to be part of the global Warcraft-Source community.
